@@ -1,0 +1,9 @@
+
+Create database [data_base];
+12Dinesh5@
+show databases;
+truncate table student;
+show tables;
+ alter table user rename  to student;
+desc user;
+
